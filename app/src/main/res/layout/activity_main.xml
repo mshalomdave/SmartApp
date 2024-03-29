@@ -8,6 +8,7 @@
     android:padding="20dp"
     tools:context=".MainActivity">
 
+<!--    You can use android:layout_height with wrap_content instead for this editText-->
     <EditText
         android:layout_width="match_parent"
         android:layout_height="60dp"
